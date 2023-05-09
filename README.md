@@ -11,6 +11,7 @@
 -- 点击下载 [Clash For Windows Mac](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.6/Clash.for.Windows-0.20.6.dmg)<br/><br/>
 
 - Iphone Ios 暂无，需要使用 Showadrocket<br/>
+-- 点击获取ID [AppStoreID获取](https://fk.maosu.top/buy/10)<br/><br/>
 
 软件仅供学习，如有侵权，请留下issues，在24小时内删除。
 
