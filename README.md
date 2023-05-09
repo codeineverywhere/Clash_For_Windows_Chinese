@@ -6,15 +6,15 @@
 
 如有侵权，请私信我删除。
 
-### 相关推荐：
+### 相关订阅节点推荐，适合普通用户：
 
-#### 猫速云加速VPN
+#### 猫速云加速VPN 支持IOS 共享美区ID下载🚀Showadrocket
 
-8.5折优惠卷码：VIPHAPPY
+- 8.5折优惠卷码：VIPHAPPY
 
-[TG群组一键直达](https://t.me.com/maospeed) 
+- [TG群组一键直达](https://t.me.com/maospeed) 
 
-特色属性：
+- 特色属性：
 
 ✅不限速，不限设备。
 
