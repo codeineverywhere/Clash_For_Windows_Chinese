@@ -1,6 +1,15 @@
 ### Clash for windows 中文版
 
+- Windows版本
+-- 点击下载 [Clash For Windows](https://b.maosu.top) 
 
+- Android版本
+-- 点击下载 [Clash For Windows Android](https://b.maosu.top) 
+
+- MacBook版本
+-- 点击下载 [Clash For Windows Mac](https://b.maosu.top) 
+
+- Iphone Ios 暂无，需要使用 Showadrocket
 
 软件仅供学习，24小时内删除。
 
@@ -12,7 +21,9 @@
 
 - 8.5折优惠卷码：VIPHAPPY
 
-- [TG群组一键直达](https://t.me.com/maospeed) 
+- [官网一键直达](https://b.maosu.top) 
+
+- [TG群组一键直达](https://t.me/maospeed) 
 
 - 特色属性：
 
