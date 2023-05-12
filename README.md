@@ -1,4 +1,4 @@
-### Clash for windows 中文版 Windows微软/Android安卓/Mac苹果系统
+### Clash for windows 中文版 Windows微软/Android安卓/Mac苹果系统 （以下下载链接如果遇到打不开，可白嫖下面的推荐代理来下载）
 
 - Windows版本(CFW-0.20.6)使用管理员权限安装<br/>
 -- 点击下载 [Clash For Windows 64位](https://ghproxy.com/https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.5_CN/Clash.for.Windows.Setup.0.20.5.exe)<br/>
